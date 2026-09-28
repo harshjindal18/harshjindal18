@@ -16,7 +16,7 @@
 ---
 
 ## 🌟 About Me  
-- 🎓 **B.Tech CSE (2022–2026)** | Cloud Computing & Virtualization | **UPES, Dehradun** | GPA: **7.70/10**  
+- 🎓 **B.Tech CSE (2022–2026)** | Cloud Computing & Virtualization | **UPES, Dehradun** | GPA: **8.15/10**  
 - 🏅 **Certifications:** AWS Academy Cloud Architecting & Cloud Foundations  
 - 🌱 Currently exploring **Kubernetes orchestration**, **AI-powered applications**, and **DevOps workflows**  
 - 💬 Ask me about **Java, Docker, React, or Kubernetes**  
